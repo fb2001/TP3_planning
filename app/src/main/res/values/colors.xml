@@ -1,0 +1,72 @@
+<resources>
+    <!-- Palette de couleurs principale - Palette cohérente avec teinte bleue dominante -->
+    <color name="primary">#2196F3</color>           <!-- Bleu vif pour les éléments principaux -->
+    <color name="primary_dark">#1976D2</color>      <!-- Bleu foncé pour la barre d'état -->
+    <color name="primary_light">#BBDEFB</color>     <!-- Bleu clair pour les éléments secondaires -->
+    <color name="primary_very_light">#E3F2FD</color> <!-- Bleu très clair pour les arrière-plans -->
+    <color name="primary_text">#212121</color>      <!-- Gris foncé pour texte principal -->
+
+    <!-- Couleurs d'accent pour les différentes actions -->
+    <color name="accent">#FFC107</color>            <!-- Jaune vif pour les accents -->
+    <color name="accent_color">#FFC107</color>      <!-- Jaune vif pour les éléments interactifs -->
+    <color name="accent_color_light">#FFECB3</color> <!-- Jaune clair pour les arrière-plans -->
+    <color name="secondary">#4CAF50</color>         <!-- Vert pour les validations -->
+    <color name="tertiary">#FF5722</color>          <!-- Orange pour les actions secondaires -->
+    <color name="error">#F44336</color>             <!-- Rouge pour les erreurs -->
+
+    <!-- Couleurs pour le texte -->
+    <color name="text_primary">#212121</color>      <!-- Gris foncé pour texte principal -->
+    <color name="text_secondary">#757575</color>    <!-- Gris moyen pour texte secondaire -->
+    <color name="text_disabled">#BDBDBD</color>     <!-- Gris clair pour texte désactivé -->
+    <color name="text_on_primary">#FFFFFF</color>   <!-- Blanc pour texte sur couleur primaire -->
+
+    <!-- Couleurs de fond -->
+    <color name="background">#FFFFFF</color>        <!-- Blanc pour fond principal -->
+    <color name="background_light">#F5F5F5</color>  <!-- Gris très clair pour fond alternatif -->
+    <color name="background_card">#FFFFFF</color>   <!-- Blanc pour les cartes -->
+    <color name="background_card_secondary">#FAFAFA</color> <!-- Gris clair pour cartes secondaires -->
+    <color name="card_background">#FFFFFF</color>   <!-- Blanc pour les cartes (alias) -->
+    <color name="card_background_light">#FAFAFA</color> <!-- Gris clair pour cartes secondaires (alias) -->
+
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="red">#FF0000</color>
+
+    <!-- Couleurs utilitaires -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#E0E0E0</color>           <!-- Couleur de séparateur subtile -->
+
+
+
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="grey">#808080</color>
+    <color name="blue_sky">#87CEEB</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_gray">#F0F0F0</color>
+    <color name="gray">#808080</color>
+
+
+    <color name="blue_primary">#1976D2</color>
+    <color name="blue_light">#BBDEFB</color>
+    <color name="blue_dark">#0D47A1</color>
+    <color name="gray_light">#ECEFF1</color>
+    <color name="gray_medium">#B0BEC5</color>
+
+    <color name="icon_tint">#FFFFFF</color>
+    <color name="selected_item_background">#EEEEEE</color>
+    <color name="circle_male">#E3F2FD</color>
+    <color name="circle_female">#FCE4EC</color>
+
+    <color name="secondary_text">#757575</color>
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="accent_red">#F44336</color>
+    <color name="accent_teal">#009688</color>
+</resources>
